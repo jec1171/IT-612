@@ -1,1 +1,7 @@
+local grades = {}
 
+function grades.average(scores)
+print("Hello world!")
+end
+
+return grades
